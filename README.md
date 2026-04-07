@@ -18,6 +18,7 @@ CSS3
 Font Awesome (for icons)
 Google Fonts (Montserrat)
 📁 Project Structure
+
 spotify-clone/
 ├── index.html
 ├── style.css
@@ -38,7 +39,6 @@ spotify-clone/
 ├── card4img.jpeg
 ├── card5img.jpeg
 └── card6img.jpeg
-⚡ Getting Started
 1. Clone the Repository
 git clone https://github.com/RaoAdi7ya/spotify-clone.git
 cd spotify-clone
